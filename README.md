@@ -1,6 +1,6 @@
 # elupdater
 
-Updater for the [Eclectic Light app library](https://eclecticlight.co/updates-sierra-and-high-sierra/) (in bash). The reference file used for version checks is https://github.com/hoakleyelc/updates/blob/master/eclecticapps.plist
+Updater for Howard Oakley's excellent [Eclectic Light app library](https://eclecticlight.co/updates-sierra-and-high-sierra/) (in bash). The reference file used for version checks is https://github.com/hoakleyelc/updates/blob/master/eclecticapps.plist
 
 #### Install
 
