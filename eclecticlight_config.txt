@@ -1,0 +1,18 @@
+#eclecticlight app config
+#format: AppName as presented in PLIST|RealAppName(actual)|folder/zip name|LatestVerOverride
+Alifix|Alifix.app|alifix|1.2
+Consolation|Consolation3.app|consolation
+KeychainCheck2|KeychainCheck2.app|keychaincheck2|2.0
+LockRattler|LockRattler.app|lockrattler
+Mints|Mints.app|mints
+PermissionScanner|PermissionScanner.app|permscan
+Precize|Precize.app|precize
+RouteMap|RouteMap.app|routemap|1.0b4
+SilentKnight|SilentKnight.app|silentknight
+SystHist|SystHist.app|systhist
+T2M2|TheTimeMachineMechanic.app|t2m2
+Taccy|Taccy.app|taccy
+Ulbow|Ulbow.app|ulbow
+UTIutility|UTIutility.app|utiutil|1.1
+Woodpile|Woodpile.app|woodpile|1.0b6
+xattred|xattred.app|xattred
