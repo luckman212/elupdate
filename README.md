@@ -25,4 +25,4 @@ You can edit the main `elupdate.sh` script and change the line that begins with 
 ```bash
 $ bash elupdate.sh
 ```
-Your destination folder should now be populated with the latest versions of the apps. Schedule this script as a LaunchAgent (see https://www.launchd.info/) to keep the apps updated automatically.
+Your destination folder should now be populated with the latest versions of the apps. Schedule this script as a LaunchAgent (see https://www.launchd.info) to keep the apps updated automatically.
