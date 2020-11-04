@@ -1,2 +1,2 @@
 # elupdater
-Updater for Eclectic Light app library (in bash)
+Updater for the [Eclectic Light app library](https://eclecticlight.co/updates-sierra-and-high-sierra/) (in bash)
