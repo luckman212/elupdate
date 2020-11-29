@@ -70,7 +70,7 @@ _install() {
 	[ -z "$APP_PID" ] || _die "skipping $realappname because it's running" 1
 
 	# download
-	curl -s -L -o "${DL_PATH:?}/${zip_filename:?}" "$url"
+	curl -Ls -o "${DL_PATH:?}/${zip_filename:?}" "$url"
 	unzip -qo "${DL_PATH:?}/${zip_filename:?}" -d "${DL_PATH}" -x '__MACOSX/*' 2>/dev/null
 	if [ -d "${cur_app_container}" ]; then
 		if ! rm -r "${cur_app_container:?}"; then
