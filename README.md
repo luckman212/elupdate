@@ -2,11 +2,13 @@
 
 Updater for Howard Oakley's excellent [Eclectic Light app library](https://eclecticlight.co/updates-sierra-and-high-sierra/) (in bash). The reference file used for version checks is https://github.com/hoakleyelc/updates/blob/master/eclecticapps.plist
 
-#### Install
+### How to use
+
+#### 1. Install
 
 [Download](https://github.com/luckman212/elupdater/archive/master.zip) and unzip.
 
-#### Configure
+#### 2. Configure
 
 Edit `eclecticlight_config.txt` and add/remove any apps you wish to keep updated. This is a simple text file, one line per app. The format of this file is:
 ```
@@ -20,7 +22,7 @@ AppName|RealAppName|zipname|LatestVerOverride
 
 You can edit the main `elupdate.sh` script and change the line that begins with `DST_FOLDER=` to choose a different destination directory in which to install the apps. The default is `~/Applications`.
 
-#### Run
+#### 3. Run
 
 ```bash
 $ bash elupdate.sh
